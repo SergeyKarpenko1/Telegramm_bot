@@ -1,0 +1,255 @@
+2023-05-29 19:51:23,228 - aiogram - INFO - Bot: superbot [@BotTranslit_bot]
+2023-05-29 19:51:23,229 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2023-05-29 19:52:23,859 - root - INFO - user_id=445152825 asked for input: Введите ваше имя на кириллице:
+2023-05-29 19:52:30,002 - root - INFO - message.from_user.id=445152825 sent messages: Привет, SERGEY!
+2023-05-29 19:54:58,675 - root - INFO - user_id=445152825 asked for input: Введите ваше имя на кириллице:
+2023-05-29 19:55:28,564 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 19:55:40,666 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 19:59:56,365 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:02:03,693 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:02:12,406 - root - INFO - message.from_user.id=445152825 sent messages: Привет, KARP!
+2023-05-29 20:02:19,318 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:12:28,503 - root - INFO - message.from_user.id=445152825 sent messages: Привет, SERGEY!
+2023-05-29 20:12:35,775 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:12:47,736 - root - INFO - message.from_user.id=445152825 sent messages: Привет, KARPENKOSERGEY!
+2023-05-29 20:15:27,873 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:15:34,366 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:15:37,693 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:16:47,267 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:16:53,043 - root - INFO - message.from_user.id=445152825 sent messages: Привет, SERGEY!
+2023-05-29 20:18:31,796 - root - INFO - user_id=445152825 asked for input: Введите ваше имя на кириллице:
+2023-05-29 20:18:38,100 - root - INFO - message.from_user.id=445152825 sent messages: Привет, SERGEY!
+2023-05-29 20:18:42,902 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:19:33,018 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:20:59,469 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:30:35,283 - root - INFO - user_id=445152825 asked for input: Введите ваше имя на кириллице:
+2023-05-29 20:30:40,978 - root - INFO - message.from_user.id=445152825 sent messages: Привет, PRIVET!
+2023-05-29 20:30:45,650 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:31:41,709 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:33:56,745 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:34:03,282 - root - INFO - message.from_user.id=445152825 sent messages: Привет, NA!
+2023-05-29 20:34:11,215 - root - INFO - message.from_user.id=445152825 sent messages: Привет, NRNRNR!
+2023-05-29 20:34:54,090 - root - INFO - message.from_user.id=445152825 sent messages: Привет, KA!
+2023-05-29 20:34:57,010 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:43:01,523 - root - INFO - user_id=493880682 asked for input: Введите ваше имя на кириллице:
+2023-05-29 20:43:11,560 - root - INFO - message.from_user.id=493880682 sent messages: Привет, viktoriya!
+2023-05-29 20:43:17,589 - root - INFO - message.from_user.id=493880682 sent messages: Привет, hi!
+2023-05-29 20:43:21,211 - root - INFO - message.from_user.id=493880682 sent messages: Привет, PRIVET!
+2023-05-29 20:52:03,559 - root - INFO - message.from_user.id=493880682 entered invalid input
+2023-05-29 20:52:08,216 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 20:52:20,027 - root - INFO - message.from_user.id=445152825 sent messages: Привет, KAR!
+2023-05-29 20:52:23,159 - root - INFO - message.from_user.id=493880682 sent messages: Привет, VIKTORIIA!
+2023-05-29 20:52:29,439 - root - INFO - message.from_user.id=493880682 sent messages: Привет, PRIVET!
+2023-05-29 20:52:31,541 - root - INFO - message.from_user.id=493880682 entered invalid input
+2023-05-29 20:59:02,820 - root - INFO - message.from_user.id=445152825 sent messages: Привет, KA!
+2023-05-29 20:59:05,652 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:01:12,183 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:01:23,677 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:02:02,026 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:03:02,499 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:03:08,489 - root - INFO - message.from_user.id=445152825 sent messages: Привет, PRIVET!
+2023-05-29 21:03:14,675 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:06:35,467 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:06:40,246 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:25:56,950 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:26:01,917 - root - INFO - message.from_user.id=445152825 sent messages: Привет, PA!
+2023-05-29 21:26:07,983 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:26:12,224 - root - INFO - message.from_user.id=445152825 sent messages: Привет, PA!
+2023-05-29 21:26:28,673 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:26:35,300 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:26:48,609 - root - INFO - message.from_user.id=445152825 sent messages: Привет, PA!
+2023-05-29 21:27:03,694 - root - INFO - message.from_user.id=445152825 sent messages: Привет, IARA!
+2023-05-29 21:27:11,453 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:27:15,331 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:27:17,721 - root - INFO - message.from_user.id=445152825 sent messages: Привет, IA!
+2023-05-29 21:31:04,588 - root - INFO - message.from_user.id=445152825 sent messages: Привет, PRIVET!
+2023-05-29 21:31:27,753 - root - INFO - message.from_user.id=445152825 sent messages: Привет, P!
+2023-05-29 21:31:31,240 - root - INFO - message.from_user.id=445152825 sent messages: Привет, PP!
+2023-05-29 21:31:34,835 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:46:57,817 - root - INFO - message.from_user.id=445152825 sent messages: Привет, PRIVET!
+2023-05-29 21:47:02,136 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:56:00,078 - root - INFO - message.from_user.id=445152825 entered invalid input
+2023-05-29 21:58:28,685 - root - INFO - message.from_user.id=445152825 sent messages: Привет, PAPKA!
+2023-05-29 21:58:48,032 - root - INFO - message.from_user.id=445152825 sent messages: Привет, PA!
+2023-05-29 21:59:57,709 - root - INFO - message.from_user.id=445152825 sent messages: Привет, PO!
+2023-05-29 22:00:18,735 - root - INFO - message.from_user.id=445152825 sent messages: Привет, PO!
+2023-05-29 22:00:21,740 - root - INFO - message.from_user.id=445152825 sent messages: Привет, TO!
+2023-05-29 22:02:19,022 - aiogram - INFO - Bot: superbot [@BotTranslit_bot]
+2023-05-29 22:02:19,023 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2023-05-29 22:02:29,710 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-7' coro=<Dispatcher._process_polling_updates() done, defined at /Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py:407> exception=TypeError("'re.Match' object is not iterable")>
+Traceback (most recent call last):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/bot.py", line 35, in cyrillic_to_latin
+    if not all(re.match('^[a-zA-Zа-яА-Я]+$', word)):
+TypeError: 're.Match' object is not iterable
+2023-05-29 22:02:39,053 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-10' coro=<Dispatcher._process_polling_updates() done, defined at /Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py:407> exception=TypeError("'re.Match' object is not iterable")>
+Traceback (most recent call last):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/bot.py", line 35, in cyrillic_to_latin
+    if not all(re.match('^[a-zA-Zа-яА-Я]+$', word)):
+TypeError: 're.Match' object is not iterable
+2023-05-29 22:02:47,585 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-13' coro=<Dispatcher._process_polling_updates() done, defined at /Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py:407> exception=TypeError("'re.Match' object is not iterable")>
+Traceback (most recent call last):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/bot.py", line 35, in cyrillic_to_latin
+    if not all(re.match('^[a-zA-Zа-яА-Я]+$', word)):
+TypeError: 're.Match' object is not iterable
+2023-05-29 22:03:08,987 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-17' coro=<Dispatcher._process_polling_updates() done, defined at /Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py:407> exception=TypeError("'re.Match' object is not iterable")>
+Traceback (most recent call last):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/bot.py", line 35, in cyrillic_to_latin
+    if not all(re.match('^[a-zA-Zа-яА-Я]+$', word)):
+TypeError: 're.Match' object is not iterable
+2023-05-29 22:04:45,152 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-24' coro=<Dispatcher._process_polling_updates() done, defined at /Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py:407> exception=TypeError("'re.Match' object is not iterable")>
+Traceback (most recent call last):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/bot.py", line 35, in cyrillic_to_latin
+    if not all(re.match('^[a-zA-Zа-яА-Я]+$', word)):
+TypeError: 're.Match' object is not iterable
+2023-05-29 22:06:34,353 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-32' coro=<Dispatcher._process_polling_updates() done, defined at /Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py:407> exception=TypeError("'re.Match' object is not iterable")>
+Traceback (most recent call last):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/bot.py", line 35, in cyrillic_to_latin
+    if not all(re.match('^[a-zA-Zа-яА-Я]+$', word)):
+TypeError: 're.Match' object is not iterable
+2023-05-29 22:19:44,074 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-74' coro=<Dispatcher._process_polling_updates() done, defined at /Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py:407> exception=TypeError("'re.Match' object is not iterable")>
+Traceback (most recent call last):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/bot.py", line 35, in cyrillic_to_latin
+    await message.reply(text)
+TypeError: 're.Match' object is not iterable
+2023-05-29 22:20:15,493 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-78' coro=<Dispatcher._process_polling_updates() done, defined at /Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py:407> exception=TypeError("'re.Match' object is not iterable")>
+Traceback (most recent call last):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/bot.py", line 35, in cyrillic_to_latin
+    await message.reply(text)
+TypeError: 're.Match' object is not iterable
+2023-05-29 22:21:50,796 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-85' coro=<Dispatcher._process_polling_updates() done, defined at /Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py:407> exception=TypeError("'re.Match' object is not iterable")>
+Traceback (most recent call last):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/bot.py", line 35, in cyrillic_to_latin
+    await message.reply(text)
+TypeError: 're.Match' object is not iterable
+2023-05-29 22:21:55,830 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-88' coro=<Dispatcher._process_polling_updates() done, defined at /Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py:407> exception=TypeError("'re.Match' object is not iterable")>
+Traceback (most recent call last):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/.venv/lib/python3.10/site-packages/aiogram/dispatcher/handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+  File "/Users/sergey/ds_bootcamp/ds-phase-0/Bot/bot.py", line 35, in cyrillic_to_latin
+    await message.reply(text)
+TypeError: 're.Match' object is not iterable
+2023-05-29 22:24:20,871 - aiogram - INFO - Bot: superbot [@BotTranslit_bot]
+2023-05-29 22:24:20,871 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2023-05-29 22:24:35,563 - root - INFO - message.from_user.id=445152825 sent messages: Ваше имя на латинице: O!
+2023-05-29 22:24:40,936 - root - INFO - message.from_user.id=445152825 sent messages: Ваше имя на латинице: P O!
+2023-05-29 22:24:55,792 - root - INFO - message.from_user.id=445152825 sent messages: Ваше имя на латинице: Sergey Karpenko!
+2023-05-29 22:41:57,864 - aiogram - INFO - Bot: superbot [@BotTranslit_bot]
+2023-05-29 22:41:57,864 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2023-05-29 22:41:58,182 - root - INFO - message.from_user.id=445152825 sent messages: Ваше имя на латинице: Pri
+2023-05-29 22:41:58,328 - root - INFO - message.from_user.id=445152825 sent messages: Ваше имя на латинице: R
+2023-05-29 22:42:05,755 - root - INFO - message.from_user.id=445152825 sent messages: Ваше имя на латинице: Po
+2023-05-29 23:08:17,260 - aiogram - INFO - Bot: superbot [@BotTranslit_bot]
+2023-05-29 23:08:17,262 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2023-05-29 23:08:17,541 - root - INFO - message.from_user.id=445152825 sent messages: Ваше имя на латинице: Sergey Ka
+2023-05-29 23:08:17,730 - root - INFO - message.from_user.id=445152825 sent messages: Ваше имя на латинице: Pro
+2023-05-29 23:08:17,761 - root - INFO - message.from_user.id=445152825 sent messages: Ваше имя на латинице: Pr
+2023-05-29 23:08:32,447 - root - INFO - message.from_user.id=445152825 sent messages: Ваше имя на латинице: Ser Ka
+2023-05-30 06:15:01,074 - root - INFO - message.from_user.id=445152825 sent messages: Ваше имя на латинице: Privet Poka
